@@ -1,4 +1,6 @@
-# CREDU
+![CREDU Logo](./images/credulogo1.png)
+
+# ABOUT THE CREDU PROJECT
 
 CREDU solves costly inefficiencies in tracking, verifying and monetizing Continuing Professional Education (CPE) & Development (CPD) credentials for accountants. It streamlines the accreditation process, automates compliance record-keeping, and provides professional bodies an unparalleled system to audit professional development activities. This approach ensures integrity of credentials, raises industry standards, and empowers diligent professionals to further monetise their expertise.
 
