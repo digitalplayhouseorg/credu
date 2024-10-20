@@ -9,12 +9,13 @@ CREDU solves costly inefficiencies in tracking, verifying and monetizing Continu
 2. [For CPE Training Providers](#for-cpe-training-providers)
 3. [For Professional Bodies](#for-professional-bodies)
 4. [For the Public](#for-the-public)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
-10. [Acknowledgements](#acknowledgements)
+5. [Multi-Sided Business Model Canvas](#multi-sided-business-model-canvas)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Contact](#contact)
+11. [Acknowledgements](#acknowledgements)
 
 ## For Accountants
 
@@ -80,11 +81,52 @@ CREDU enables the public to search for professionals with verified expertise and
   - Connect with professionals through the platform for referrals and services.
   - Benefit from transparent and reliable verification of professional credentials.
 
-## Installation
 
-Follow these steps to install and set up your CREDU environment.
+---
+
+### Multi Sided Business Model Canvas
+
+| **Key Partners**                                         | **Key Activities**                                          | **Value Propositions**                                    |
+|---------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------|
+| - Stacks ecosystem (StacksLink)                         | - Develop and maintain the credentialing dapp            | **For Accountants:**                                     |
+| - Accounting bodies (worldwide)                         | - Ecosystem coordination and community engagement         | - Public trust through proof-of-competence               |
+| - CPE training providers                                 | - Marketplace and content validation operations            | - Automated, decentralized tracking of CPE               |
+| - Technology integrators                                 | - Relationship management with accounting bodies           | - Competitive edge in a digital economy                  |
+|                                                         | **For CPE Providers:**                                    | **For CPE Providers:**                                   |
+|                                                         | - Course listing and promotion                             | - Global reach through a decentralized marketplace        |
+|                                                         | - Digital certificate issuance                             | - Efficient monetization of specialized content           |
+|                                                         | **For Accounting Bodies:**                                | **For Accounting Bodies:**                               |
+|                                                         | - Automated member compliance audits                       | - Automated, real-time compliance verification            |
+|                                                         | - Credential standardization                               | - Elevate member recognition and industry profile        |
+|                                                         | - Member data analytics                                    | - Cost-effective compliance management                    |
+|                                                         | **For the Public:**                                       | **For the Public:**                                      |
+|                                                         | - Verification access interface                            | - Quick, reliable search for accountants                  |
+|                                                         | - Public awareness campaigns                               | - Access a network of competitive specialists             |
+|                                                         |                                                           | - Confidence in verified expertise                        |
+| **Customer Segments**                                   | **Key Resources**                                         | **Customer Relationships**                               |
+| - All accountants requiring CPE/CPD tracking           | - Decentralized blockchain infrastructure (Stacks)       | **For Accountants:**                                     |
+| - CPE/CPD training providers expanding their audience    | - Open-source platform (GitHub)                           | - Direct engagement via webinars, events                 |
+| - All professional accounting bodies mandating compliance| - Human capital: technical experts and relationship managers| - Community support forums                                |
+| - The public (businesses and individuals) searching for expertise | - Data, analytics, and reporting tools                    | **For CPE Providers:**                                   |
+|                                                         |                                                           | - Marketplace tools and promotional support               |
+|                                                         |                                                           | **For Accounting Bodies:**                               |
+|                                                         |                                                           | - Integration and compliance consultation                 |
+|                                                         |                                                           | **For the Public:**                                      |
+|                                                         |                                                           | - Simple, user-friendly search interface                  |
+|                                                         |                                                           | - Public awareness & trust-building initiatives           |
+| **Channels**                                           | **Cost Structure**                                        | **Revenue Streams**                                      |
+| - CREDU dapp: core platform for services and engagement | - Development and maintenance                             | - Per member onboarding fees for accounting bodies       |
+| - Accounting bodies: incentivized member onboarding     | - Marketing, promotion, and outreach                     | - Transaction fees from the marketplace                  |
+| - Strategic alliances: events, webinars, and initiatives| - Compliance, legal, and security                        | - Public directory accountant engagement fees            |
+| - Social media: outreach and campaigns                  | - Community engagement                                    | - Donations to support open-source and public benefit aspects |
+| - GitHub: open-source collaboration and community input  |                                                           |                                                          |
 
 ```sh
+
+## Installation
+
+(not available)
+
 # Clone the repository
 git clone https://github.com/electra-frost/credu.git
 
